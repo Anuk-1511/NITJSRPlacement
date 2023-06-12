@@ -29,7 +29,7 @@ To get started with the Frontend site, follow the instructions below:
 1. Start the server:
     ```bash
    npm start
-3. The Frontend site will be available at http://localhost:8080.
+3. The Frontend site will be available at http://localhost:3000.
 
 ### Project Structure
   ```bash
