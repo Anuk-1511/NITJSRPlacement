@@ -1,4 +1,4 @@
-###College Placement Frontend Site
+### College Placement Frontend Site
 
 This is the frontend site for the college placement system. It provides information about the placement process, statistics, and allows users to contact the training and placement staff. The site is built using React and JavaScript and deployed with Vercel.com.
 
