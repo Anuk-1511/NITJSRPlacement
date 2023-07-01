@@ -25,7 +25,7 @@ const footer = () => {
               </p>
             </div>
             <div className="footer-col-parent">
-              <a href="https://www.linkedin.com/in/kushal-reddy-3101231b5/?originalSubdomain=in" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/mritkumar/" target="_blank" rel="noopener noreferrer">
                 <img src={m} alt={"mritunjay"} className="footer-img"/>
               </a>
               <div className="footer-col">
@@ -42,7 +42,7 @@ const footer = () => {
               </div>
             </div>
             <div className="footer-col-parent">
-              <a href="https://www.linkedin.com/in/anu-kumari-401464197/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/sadhvi-khatik/" target="_blank" rel="noopener noreferrer">
               <img src={sa} alt={"Sadhvi"} className="footer-img"/>
               </a>
               <div className="footer-col">
@@ -59,7 +59,7 @@ const footer = () => {
               </div>
             </div>
             <div className="footer-col-parent">
-              <a href="https://www.linkedin.com/in/anu-kumari-401464197/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/kt-shashi/" target="_blank" rel="noopener noreferrer">
               <img src={sk} alt={"ShashiKant"} className="footer-img"/>
               </a>
               <div className="footer-col">
