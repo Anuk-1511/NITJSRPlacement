@@ -8,7 +8,7 @@ const Courses = () => (
       <div className="courses">
         <h1>Courses</h1>
         <ul>
-          <li>M.C.A.</li>
+          <li>M. C. A.</li>
         </ul>
         <p className="courses-overview" style={{color : "white"}}>
           This course is arguably the best in the country. Its strength is its
